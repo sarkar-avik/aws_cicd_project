@@ -1,0 +1,5 @@
+#!/Users/aviksarkar/Desktop/Python/Krish_Naik_DS_Bootcamp/aws_cicd/aws_env/bin/python3.14
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

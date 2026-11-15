@@ -1,0 +1,3 @@
+[ 2026-11-14 18:31:50,545 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-11-14 18:31:50,553 ] 97 werkzeug - INFO -  * Debugger PIN: 503-253-560
+[ 2026-11-14 18:31:53,588 ] 97 werkzeug - INFO -  * Detected change in '/Users/aviksarkar/Desktop/Python/Krish_Naik_DS_Bootcamp/ml_project/application.py', reloading
